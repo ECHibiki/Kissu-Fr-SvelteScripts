@@ -9,7 +9,8 @@ export default defineConfig({
           output: {
               entryFileNames
               : 'dev-menu.js',
-          }
-      }
+          },
+      },
+      minify: false,
   }
 })

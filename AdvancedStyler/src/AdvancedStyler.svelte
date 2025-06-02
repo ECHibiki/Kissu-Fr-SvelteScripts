@@ -1,7 +1,7 @@
 <style>
   .advanced-style-option  {
     display: inline-grid;
-    grid-template-columns: 125px 118px;
+    grid-template-columns: 160px 118px;
     grid-template-rows: 25px;
   }
   .advanced-color-selector {
@@ -96,7 +96,7 @@
           <label for="yen-text">Yen Text:</label>
           <input id="yen-text" type="color"  class="advanced-color-selector"/>
         </div>
-        
+
         <div  class="advanced-style-option">
           <label for="post-background">Post Background:</label>
           <input id="post-background" type="color"  class="advanced-color-selector"/>
